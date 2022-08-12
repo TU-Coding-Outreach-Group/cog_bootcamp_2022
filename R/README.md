@@ -1,13 +1,12 @@
 # Coding Outreach Group Bootcamp
 # R Tutorial
-12/16/2021  
-UPDATED: 12/20/2021
+08/17/2022  
 
 __**Instructor:**__ William Mitchell
 
 
 ## Description
-This workshop will review basic coding skills relevant to conducting statistical analyses for an audience that has ***little to no experience in R***. It will build upon the groundwork laid in days 1 and 2 by using the same data that we had organized in Bash and cleaned in Python. We will review further data wrangling techniques, especially those unique to R. We will also review how to conduct basic statistical tests in R, including Chi Square tests, T-Tests, ANOVAs, and various forms of Regression. While a background in statistical theory is *helpful*, the module was designed such that it should not be *necessary* to follow along.
+This workshop will review basic coding skills relevant to conducting statistical analyses for an audience that has ***little to no experience in R***. It will build upon the groundwork laid in days 1 and 2 by using the same data that we had organized in Bash and cleaned in Python. Although R is well-suited for data wrangling purposes, we will focus specifically on how to conduct basic statistical tests in R, including Chi Square tests, T-Tests, ANOVAs, and various forms of Regression. While a background in statistical theory is *helpful*, the module was designed such that it should not be *necessary* to follow along.
 
 ## Prerequisites
 1. [bash tutorial]()
